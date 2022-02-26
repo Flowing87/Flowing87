@@ -1,4 +1,4 @@
-### Hi there 👋, Carlos Romero
+### Hola👋, Carlos Romero
 #### Soy estudiante de programación 
 ![Soy estudiante de programación ](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 

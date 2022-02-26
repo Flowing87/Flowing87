@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Carlos Romero
+#### Soy estudiante de programación 
+![Soy estudiante de programación ](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-Hola buenas, mi nombre es Carlos Romero y me gusta programar, simon todavia me falta bastante para aorender bien estoy dispuesto a aprender mas sobre el tema
-Mi gustaria programar en videojuegos , Con el motor de Unity usando C#, y se un poco de Java 
+Me gustan los videojuegos y programación en si, me gustaría trabajar de desarrollador algún día 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flowing87)](https://github.com/anuraghazra/github-readme-stats)
+Skills: JAVA/ C#/ HTML
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
